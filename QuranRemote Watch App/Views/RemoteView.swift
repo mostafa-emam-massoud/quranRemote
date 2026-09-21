@@ -35,7 +35,11 @@ struct RemoteView: View {
                     },
                     onVerseStep: { forward in
                         guard !isSyncingCrown else { return }
-                        forward ? remote.nextVerse() : remote.previousVerse()
+                        if forward {
+                            remote.nextVerse()
+                        } else {
+                            remote.previousVerse()
+                        }
                     }
                 )
             )

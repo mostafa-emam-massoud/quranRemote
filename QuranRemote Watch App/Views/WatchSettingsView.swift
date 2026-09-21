@@ -23,7 +23,7 @@ struct WatchSettingsView: View {
 
                 Section("Prayer mode") {
                     Toggle("Stay on screen", isOn: prayerModeBinding)
-                    Text("Keeps the remote frontmost for up to an hour, so it is still there between rak'ahs.")
+                    Text("Keeps the remote frontmost for up to an hour, so raising your wrist brings back the remote and not the watch face.")
                         .font(.system(size: 11))
                         .foregroundStyle(.secondary)
                 }

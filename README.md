@@ -7,8 +7,9 @@ tap on your wrist turns the page.
 - **iPhone + iPad** — one universal app. A landscape iPad shows two pages side
   by side, like an open mushaf.
 - **Apple Watch remote** — big Next/Back buttons, Digital Crown page turning,
-  a haptic on every page turn, and a prayer mode that keeps the remote on
-  screen instead of dropping back to the watch face between rak'ahs.
+  a haptic on every page turn, and a prayer mode that keeps the remote
+  frontmost, so raising your wrist between rak'ahs shows the remote rather
+  than the watch face.
 - **Works offline** — pages are cached as you read, and one tap downloads all
   604 pages so a weak signal in the masjid cannot interrupt you.
 - **Built for praying** — the screen stays awake, controls fade away, and there
@@ -39,7 +40,9 @@ account, no key, no analytics, nothing leaves the device except those requests.
 1. Prop the phone or iPad where you can see it and open the page you are
    starting from.
 2. On the watch, open Quran Remote and tap the **hands** button to start prayer
-   mode — the remote will now stay on screen.
+   mode. The watch will keep Quran Remote frontmost for up to an hour, so
+   lowering and raising your wrist brings you back to the remote and not to
+   the watch face.
 3. Tap **Next** to turn the page, or turn the crown. Both work without looking:
    every move plays a haptic, and a double buzz means you are at the first or
    last page.
